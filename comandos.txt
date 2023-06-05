@@ -1,0 +1,30 @@
+  500  git remote add origin https://github.com/veronicajujuy/prueba01.git
+  501  git init
+  502  git remote add origin https://github.com/veronicajujuy/prueba01.git
+  503  mkdir comandos.txt main.js index.html
+  504  rm -r *
+  505  touch comandos.txt main.js index.html
+  506  git add .
+  507  git commit -m "commit 01 vero"
+  508  git push origin main
+  509  git branch feature01
+  510  git checkout feature02
+  511  git checkout feature01 
+  512  mkdir Terminal Hardware
+  513  touch Hardware/resumen.txt Terminal/resumen.txt
+  514  git status
+  515  git add .
+  516  git status
+  517  git commit -m "commit 2 vero"
+  518  git push origin feature02
+  519  git push origin feature01
+  520  git branch feature02
+  521  git checkout feature02
+  522  git status
+  523  git add .
+  524  git commit -m "commit 03 vero"
+  525  git push origin feature02
+  526  git checkout main
+  527  history
+  528  hitory 30 > comandos.txt 
+  529  history 30 > comandos.txt 
